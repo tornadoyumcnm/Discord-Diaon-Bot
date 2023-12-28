@@ -2,7 +2,8 @@
 
 ###### Diaon Projesini Bıraktığım İçin Kenarda Da Dursun İstemedim Bu Yüzden Github'a Atmak İstedim.
 
-``BOTTOKEN=""
+```
+BOTTOKEN=""
 BOTID=""
 BOTISIM=""
 MONGO_URL=""
