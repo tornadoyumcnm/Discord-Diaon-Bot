@@ -7,7 +7,6 @@ BOTID=""
 BOTISIM=""
 MONGO_URL=""
 
-# diğer şeyler
 OWNERID=""
 HATALOG=""
 BOTLOG=""
