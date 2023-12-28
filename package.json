@@ -1,7 +1,7 @@
 {
-  "name": "pacie-bot",
+  "name": "diaon-bot",
   "version": "1.0.0",
-  "description": "Pacie | Goelisma",
+  "description": "Diaon | Goelisma",
   "main": "src/index.js",
   "scripts": {
     "test": "src/index.js"
